@@ -6,8 +6,9 @@ import (
 	"log"
 	"sync"
 
-	"D:/Ivan/Maestría/Sistemasoperativos/Simulador_Livelock/client/client"
-	"D:/Ivan/Maestría/Sistemasoperativos/Simulador_Livelock/server/server"
+	"github.com/Ivandres27/Simulador_RecLivelock/server"
+	"github.com/Ivandres27/Simulador_RecLivelock/client"
+
 )
 
 func LogStdOut(logApp bool) {
