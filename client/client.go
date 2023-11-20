@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"D:/Ivan/Maestría/Sistemasoperativos/Simulador_Livelock/common"
+	"github.com/Ivandres27/Simulador_RecLivelock/common"
 
 )
 
