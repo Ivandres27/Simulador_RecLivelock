@@ -13,8 +13,6 @@ import (
 
 )
 
-"./common/common"
-
 
 var totalMem = 0
 
